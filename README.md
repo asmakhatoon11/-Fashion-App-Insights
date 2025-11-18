@@ -1,4 +1,2 @@
-git.add
-git commit -m "Initial project commit with README"
-git remote add origin<remote_respositary_url>
-git push -u origin main
+https://miro.com/welcomeonboard/ellucnlxTE1HK1ltam1scTZNMFlHSXpITkNtcmFSVG1OSEZ2cjZrNFZCRVh1eHRZSmZEZjg0allmc1RydUNxQzBPTHE0SVlRTUsxMzM0WEYzbzcyNHZpSnpYNFJFeWhEZjE0SE5lRmVvVnZJaUg0U1FHMmFYMkFic01VWVV5K0lnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=639696808780
+https://www.figma.com/board/Rxh4CRd9eFNzlbKdV6Hv9x/FigJam-basics?node-id=0-1&t=XGyGePXV4jn1IoKh-1
